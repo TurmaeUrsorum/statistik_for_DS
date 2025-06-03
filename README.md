@@ -76,3 +76,97 @@ Berikut ini roadmap belajar statistik yang cocok buat kamu:
 ---
 
 Kalau kamu mau, aku bisa bantu bikinin **jadwal mingguan belajar statistik untuk jadi DS/AI**, atau kasih contoh proyek akhir biar makin mantap. Mau lanjut ke situ?
+
+
+Mantap! Berikut ini adalah **roadmap belajar matematika untuk Data Scientist dan AI Engineer**, lengkap dengan **urutan belajar** dan **sumber belajar gratis (pakai bahasa Indonesia bila memungkinkan)**.
+
+---
+
+## 📚 Tahapan Belajar Matematika untuk Data Scientist + AI Engineer
+
+---
+
+### ✅ **1. Matematika Dasar & Logika**
+
+**Cocok buat pemanasan otak kalau udah lama gak belajar MTK.**
+
+| Materi                          | Isi                                             | Sumber                                                                                                |
+| ------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Operasi dasar, logika, himpunan | ∧, ∨, negasi, implikasi, himpunan, kuantor      | [Khan Academy (Logika Matematika ID)](https://id.khanacademy.org/math/logic)                          |
+| Matematika Diskrit (pengantar)  | Logika proposisional, kombinatorika, teori graf | [Playlist Matematika Diskrit - Pak Rachmat](https://www.youtube.com/playlist?list=PL5D5C5A32D1072BA3) |
+
+---
+
+### ✅ **2. Statistik & Probabilitas**
+
+**Wajib banget buat semua Data Scientist dan AI Engineer.**
+
+| Materi                | Isi                                                  | Sumber                                                                       |
+| --------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Statistik Deskriptif  | Mean, median, modus, standar deviasi, distribusi     | [Petani Statistik (YouTube)](https://www.youtube.com/@PetaniStatistik)       |
+| Probabilitas Dasar    | Peluang, peluang bersyarat, independensi             | [Statistika Research (YouTube)](https://www.youtube.com/@statistikaresearch) |
+| Statistik Inferensial | Uji hipotesis, p-value, confidence interval, regresi | [DQLab Trial Gratis](https://dqlab.id) (modul "Statistika untuk DS")         |
+
+---
+
+### ✅ **3. Aljabar Linier**
+
+**Fondasi Machine Learning & Deep Learning.**
+
+| Materi              | Isi                                    | Sumber                                                                                                                 |
+| ------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Vektor dan Matriks  | Operasi dasar, dot product, norm       | [Khan Academy - Aljabar Linier ID](https://id.khanacademy.org/math/linear-algebra)                                     |
+| Transformasi Linier | Rotasi, skala, eigenvalue, eigenvector | [3Blue1Brown (visual interaktif)](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+
+---
+
+### ✅ **4. Kalkulus (Terutama Turunan)**
+
+**Penting untuk memahami training model & optimasi.**
+
+| Materi                   | Isi                               | Sumber                                                                        |
+| ------------------------ | --------------------------------- | ----------------------------------------------------------------------------- |
+| Limit, Turunan, Integral | Fungsi, grafik, gradien, optimasi | [Khan Academy - Kalkulus ID](https://id.khanacademy.org/math/calculus-1)      |
+| Gradient Descent         | Turunan fungsi loss, update bobot | [3Blue1Brown - Gradient Descent](https://www.youtube.com/watch?v=IHZwWFHWa-w) |
+
+---
+
+### ✅ **5. Optimasi & Fungsi Loss**
+
+**Dipakai saat training ML/DL model.**
+
+| Materi          | Isi                           | Sumber                                                                                                             |
+| --------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Fungsi biaya    | MSE, Cross Entropy, log loss  | [Kursus Deep Learning by DeepLizard (subtitle ID)](https://www.youtube.com/watch?v=tIeHLnjs5U8)                    |
+| Metode optimasi | SGD, momentum, Adam optimizer | [Blog: Towards Data Science](https://towardsdatascience.com/optimization-algorithms-in-deep-learning-6346f3f66c29) |
+
+---
+
+### ✅ **6. Teori Informasi & Distribusi**
+
+**Penting untuk AI/NLP/RL.**
+
+| Materi                  | Isi                            | Sumber                                                                                          |
+| ----------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Entropy, Cross Entropy  | Pengukuran ketidakpastian      | [YouTube: Henry AI Labs - Entropy](https://www.youtube.com/watch?v=4z3p_C9NsfI)                 |
+| Distribusi Probabilitas | Normal, binomial, eksponensial | [Khan Academy ID - Probabilitas Lanjut](https://id.khanacademy.org/math/statistics-probability) |
+
+---
+
+## 🎯 Cara Belajarnya
+
+1. **Ikuti urutannya**, jangan lompat ke topik lanjutan kalau dasar belum kuat.
+2. Sambil belajar MTK, **praktek langsung di Python** pakai `numpy`, `pandas`, `scipy`, dan `matplotlib`.
+3. Gunakan visualisasi sebanyak mungkin untuk bantu pemahaman.
+4. Simpan catatan, bikin rangkuman sendiri, dan coba soal latihan.
+
+---
+
+Kalau kamu mau, aku bisa bantu:
+
+* Buatkan **jadwal belajar mingguan**
+* Buatin **notion / markdown template** buat tracking
+* Atau kasih contoh soal latihan per topik
+
+Tertarik ke yang mana dulu?
+
